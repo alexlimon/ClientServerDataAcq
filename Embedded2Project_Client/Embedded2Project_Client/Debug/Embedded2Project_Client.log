@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\senior design\desktop\limonnaranjo_finalprojectembedded2\embedded2project_client\embedded2project_client\source.cpp(93): warning C4459: declaration of 'hClientThread' hides global declaration
+  c:\users\senior design\desktop\limonnaranjo_finalprojectembedded2\embedded2project_client\embedded2project_client\source.cpp(56): note: see declaration of 'hClientThread'
+c:\users\senior design\desktop\limonnaranjo_finalprojectembedded2\embedded2project_client\embedded2project_client\source.cpp(118): warning C4310: cast truncates constant value
+c:\users\senior design\desktop\limonnaranjo_finalprojectembedded2\embedded2project_client\embedded2project_client\source.cpp(119): warning C4310: cast truncates constant value
+c:\users\senior design\desktop\limonnaranjo_finalprojectembedded2\embedded2project_client\embedded2project_client\source.cpp(120): warning C4310: cast truncates constant value
+c:\users\senior design\desktop\limonnaranjo_finalprojectembedded2\embedded2project_client\embedded2project_client\source.cpp(121): warning C4310: cast truncates constant value
+  Embedded2Project_Client.vcxproj -> C:\Users\Senior Design\Desktop\LimonNaranjo_FinalProjectEmbedded2\Embedded2Project_Client\Debug\Embedded2Project_Client.exe
+  Embedded2Project_Client.vcxproj -> C:\Users\Senior Design\Desktop\LimonNaranjo_FinalProjectEmbedded2\Embedded2Project_Client\Debug\Embedded2Project_Client.pdb (Partial PDB)

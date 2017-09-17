@@ -1,0 +1,33 @@
+﻿  Source.cpp
+Source.cpp(80): warning C4100: 'lpszEntry': unreferenced formal parameter
+Source.cpp(253): warning C4310: cast truncates constant value
+Source.cpp(254): warning C4310: cast truncates constant value
+Source.cpp(255): warning C4310: cast truncates constant value
+Source.cpp(256): warning C4310: cast truncates constant value
+Source.cpp(335): warning C4459: declaration of 'value' hides global declaration
+  Source.cpp(188): note: see declaration of 'value'
+Source.cpp(338): warning C4459: declaration of 'resolution' hides global declaration
+  Source.cpp(190): note: see declaration of 'resolution'
+Source.cpp(385): warning C4459: declaration of 'saddr' hides global declaration
+  Source.cpp(210): note: see declaration of 'saddr'
+Source.cpp(388): warning C4459: declaration of 'fileName' hides global declaration
+  Source.cpp(200): note: see declaration of 'fileName'
+Source.cpp(439): warning C4459: declaration of 'value' hides global declaration
+  Source.cpp(188): note: see declaration of 'value'
+Source.cpp(439): warning C4101: 'value': unreferenced local variable
+Source.cpp(524): warning C4456: declaration of 'i' hides previous local declaration
+  Source.cpp(488): note: see declaration of 'i'
+Source.cpp(487): warning C4101: 'dma': unreferenced local variable
+Source.cpp(488): warning C4101: 'i': unreferenced local variable
+Source.cpp(487): warning C4101: 'gainsup': unreferenced local variable
+Source.cpp(487): warning C4101: 'samplesize': unreferenced local variable
+Source.cpp(487): warning C4101: 'size': unreferenced local variable
+Source.cpp(567): warning C4244: 'initializing': conversion from 'double' to 'ULNG', possible loss of data
+Source.cpp(571): warning C4189: 'startch1': local variable is initialized but not referenced
+Source.cpp(691): warning C4189: 'startch1': local variable is initialized but not referenced
+Source.cpp(729): warning C4189: 'x': local variable is initialized but not referenced
+Source.cpp(784): warning C4101: 'inputChar': unreferenced local variable
+Source.cpp(805): warning C4101: 'inputChar': unreferenced local variable
+c:\users\senior design\desktop\limonnaranjo_finalprojectembedded2\embedded2project_server\embedded2project_server\source.cpp(683): warning C4715: 'bufferDataProcessor': not all control paths return a value
+  Embedded2Project_Server.vcxproj -> C:\Users\Senior Design\Desktop\LimonNaranjo_FinalProjectEmbedded2\Embedded2Project_Server\Debug\Embedded2Project_Server.exe
+  Embedded2Project_Server.vcxproj -> C:\Users\Senior Design\Desktop\LimonNaranjo_FinalProjectEmbedded2\Embedded2Project_Server\Debug\Embedded2Project_Server.pdb (Full PDB)
